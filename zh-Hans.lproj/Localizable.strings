@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  XY25Grid
+
+  Created by Xiaoqian Yang on 10/2/17.
+  Copyright © 2017 XiaoqianYang. All rights reserved.
+*/
+"Press Start to begin"="按“开始”玩游戏";
+"Start"="开始";
+"0s"="0秒";
+"Well done"="干得漂亮";
+"Please Touch %ld"="请按%ld";

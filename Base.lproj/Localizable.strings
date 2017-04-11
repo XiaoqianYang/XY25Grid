@@ -1,0 +1,13 @@
+/* 
+  File.strings
+  XY25Grid
+
+  Created by Xiaoqian Yang on 10/2/17.
+  Copyright © 2017 XiaoqianYang. All rights reserved.
+*/
+
+"Press Start to begin"="Press Start to begin";
+"Start"="Start";
+"0s"="0s";
+"Well done"="Well done";
+"Please Touch %ld"="Please Touch %ld";
